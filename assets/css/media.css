@@ -1,0 +1,31 @@
+@media  (min-width: 1200px) and (max-width:1500px){
+    .access-img {
+        width: 500px;
+        right: 0;
+    }
+    .newsletter input {        
+        width: 66%;
+       
+    }
+}
+@media  (min-width: 992px) and (max-width:1200px){
+    .slider-area {        
+        overflow: hidden;
+    }
+    .access-area{
+        height: auto;
+    }
+    .acces-text{
+        padding-top: 35px; 
+    }
+    .access-img {        
+        width: 800px;
+    }
+    .acces-text p {
+        margin-bottom: 40px;
+        font-size: 15px;
+        font-family: 'Rubik', sans-serif;
+    }
+    
+
+}
